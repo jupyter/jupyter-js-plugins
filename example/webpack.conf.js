@@ -23,7 +23,7 @@ module.exports = {
   },
   resolve: {
     alias: {
-      'phosphor-widget': path.resolve('./node_modules/phosphor-widget'),
+      'phosphor-widget': path.resolve('../node_modules/phosphor-widget'),
    },
 },
 
